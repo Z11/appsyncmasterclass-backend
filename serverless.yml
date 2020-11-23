@@ -3,7 +3,7 @@ service: appsyncmasterclass-backend
 provider:
   name: aws
   runtime: nodejs12.x
-  region: eu-west-1
+  region: us-east-1
 
 package:
   exclude:
